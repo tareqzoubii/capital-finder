@@ -2,7 +2,7 @@
 # -----------------
 
 ## Created by Tareq Zoubii
-# ==---------------
+# -----------------
 
 ## Project Name: Capital Finder
 
@@ -18,7 +18,7 @@
 [API](https://restcountries.com/#rest-countries)
 
 ### Pull Request:
-[PR]()
+[PR](https://github.com/tareqzoubii/capital-finder/pull/1)
 
 ### Links Tested
 [Capital Searching](https://capital-finder-2sk7.vercel.app/api/finder?capital=cairo)
