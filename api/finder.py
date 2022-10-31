@@ -9,5 +9,3 @@ class handler(BaseHTTPRequestHandler):
     self.end_headers()
     self.wfile.write(str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')).encode())
     return
-
-BaseHTTPRequestHandler()
